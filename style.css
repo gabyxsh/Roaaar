@@ -1,6 +1,6 @@
 .box{
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 900px;
     background-color: gray;
 }
 
@@ -12,19 +12,20 @@
     height: 150px;
 }
 .space-2{
-    height: 500px;
+    height: 200px;
 }
 .space-3{
-    height: px;
+    height: 30px;
 }
 .box-2{
-    height: 200px;
-    width: 80px;
+    height: 450px;
+    width: 400px;
     background-color: gray;
     
 }
-    
-    
-    
+.box-3{
+    height: 450px;
+    width: 600px;
     background-color: gray;
 }
+    
